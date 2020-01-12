@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/paktan.github.io/delay-shop/static/css/main.eabff5f8.chunk.css",
-    "main.js": "/paktan.github.io/delay-shop/static/js/main.13d4d087.chunk.js",
-    "main.js.map": "/paktan.github.io/delay-shop/static/js/main.13d4d087.chunk.js.map",
-    "runtime-main.js": "/paktan.github.io/delay-shop/static/js/runtime-main.55b1b274.js",
-    "runtime-main.js.map": "/paktan.github.io/delay-shop/static/js/runtime-main.55b1b274.js.map",
-    "static/js/2.fa83e4b4.chunk.js": "/paktan.github.io/delay-shop/static/js/2.fa83e4b4.chunk.js",
-    "static/js/2.fa83e4b4.chunk.js.map": "/paktan.github.io/delay-shop/static/js/2.fa83e4b4.chunk.js.map",
-    "index.html": "/paktan.github.io/delay-shop/index.html",
-    "precache-manifest.3409c7bb31f8d7185d64a2e70ae83329.js": "/paktan.github.io/delay-shop/precache-manifest.3409c7bb31f8d7185d64a2e70ae83329.js",
-    "service-worker.js": "/paktan.github.io/delay-shop/service-worker.js",
-    "static/css/main.eabff5f8.chunk.css.map": "/paktan.github.io/delay-shop/static/css/main.eabff5f8.chunk.css.map",
-    "static/js/2.fa83e4b4.chunk.js.LICENSE": "/paktan.github.io/delay-shop/static/js/2.fa83e4b4.chunk.js.LICENSE"
+    "main.css": "//paktan.github.io/delay-Publishing/static/css/main.eabff5f8.chunk.css",
+    "main.js": "//paktan.github.io/delay-Publishing/static/js/main.478385f4.chunk.js",
+    "main.js.map": "//paktan.github.io/delay-Publishing/static/js/main.478385f4.chunk.js.map",
+    "runtime-main.js": "//paktan.github.io/delay-Publishing/static/js/runtime-main.d5283db0.js",
+    "runtime-main.js.map": "//paktan.github.io/delay-Publishing/static/js/runtime-main.d5283db0.js.map",
+    "static/js/2.62b54232.chunk.js": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js",
+    "static/js/2.62b54232.chunk.js.map": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js.map",
+    "index.html": "//paktan.github.io/delay-Publishing/index.html",
+    "precache-manifest.813af4373b81d3c28fc60f3484db9996.js": "//paktan.github.io/delay-Publishing/precache-manifest.813af4373b81d3c28fc60f3484db9996.js",
+    "service-worker.js": "//paktan.github.io/delay-Publishing/service-worker.js",
+    "static/css/main.eabff5f8.chunk.css.map": "//paktan.github.io/delay-Publishing/static/css/main.eabff5f8.chunk.css.map",
+    "static/js/2.62b54232.chunk.js.LICENSE": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.55b1b274.js",
-    "static/js/2.fa83e4b4.chunk.js",
+    "static/js/runtime-main.d5283db0.js",
+    "static/js/2.62b54232.chunk.js",
     "static/css/main.eabff5f8.chunk.css",
-    "static/js/main.13d4d087.chunk.js"
+    "static/js/main.478385f4.chunk.js"
   ]
 }
