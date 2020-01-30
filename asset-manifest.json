@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "//paktan.github.io/delay-Publishing/static/css/main.eabff5f8.chunk.css",
-    "main.js": "//paktan.github.io/delay-Publishing/static/js/main.478385f4.chunk.js",
-    "main.js.map": "//paktan.github.io/delay-Publishing/static/js/main.478385f4.chunk.js.map",
-    "runtime-main.js": "//paktan.github.io/delay-Publishing/static/js/runtime-main.d5283db0.js",
-    "runtime-main.js.map": "//paktan.github.io/delay-Publishing/static/js/runtime-main.d5283db0.js.map",
-    "static/js/2.62b54232.chunk.js": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js",
-    "static/js/2.62b54232.chunk.js.map": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js.map",
-    "index.html": "//paktan.github.io/delay-Publishing/index.html",
-    "precache-manifest.813af4373b81d3c28fc60f3484db9996.js": "//paktan.github.io/delay-Publishing/precache-manifest.813af4373b81d3c28fc60f3484db9996.js",
-    "service-worker.js": "//paktan.github.io/delay-Publishing/service-worker.js",
-    "static/css/main.eabff5f8.chunk.css.map": "//paktan.github.io/delay-Publishing/static/css/main.eabff5f8.chunk.css.map",
-    "static/js/2.62b54232.chunk.js.LICENSE": "//paktan.github.io/delay-Publishing/static/js/2.62b54232.chunk.js.LICENSE"
+    "main.css": "/delay-Publishing/static/css/main.81a2ce6e.chunk.css",
+    "main.js": "/delay-Publishing/static/js/main.0c854f5c.chunk.js",
+    "main.js.map": "/delay-Publishing/static/js/main.0c854f5c.chunk.js.map",
+    "runtime-main.js": "/delay-Publishing/static/js/runtime-main.0eddd371.js",
+    "runtime-main.js.map": "/delay-Publishing/static/js/runtime-main.0eddd371.js.map",
+    "static/js/2.cfad2f03.chunk.js": "/delay-Publishing/static/js/2.cfad2f03.chunk.js",
+    "static/js/2.cfad2f03.chunk.js.map": "/delay-Publishing/static/js/2.cfad2f03.chunk.js.map",
+    "index.html": "/delay-Publishing/index.html",
+    "precache-manifest.a56f65fb117f0b0e7545dffd2fcb4953.js": "/delay-Publishing/precache-manifest.a56f65fb117f0b0e7545dffd2fcb4953.js",
+    "service-worker.js": "/delay-Publishing/service-worker.js",
+    "static/css/main.81a2ce6e.chunk.css.map": "/delay-Publishing/static/css/main.81a2ce6e.chunk.css.map",
+    "static/js/2.cfad2f03.chunk.js.LICENSE": "/delay-Publishing/static/js/2.cfad2f03.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5283db0.js",
-    "static/js/2.62b54232.chunk.js",
-    "static/css/main.eabff5f8.chunk.css",
-    "static/js/main.478385f4.chunk.js"
+    "static/js/runtime-main.0eddd371.js",
+    "static/js/2.cfad2f03.chunk.js",
+    "static/css/main.81a2ce6e.chunk.css",
+    "static/js/main.0c854f5c.chunk.js"
   ]
 }
